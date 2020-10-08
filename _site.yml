@@ -10,8 +10,8 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://github.com/AliceM2000/AliceM_Blog.git
-base_url: https://AliceM2000.github.io/AliceM_Blog/
+      href: https://github.com/AliceM2000/AliceM_Blog
+base_url: AliceM2000.github.io/AliceM_Blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]

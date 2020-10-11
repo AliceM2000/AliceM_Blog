@@ -1,5 +1,5 @@
 ---
-title: "AliceM_Blog"
+title: "Ethology"
 site: distill::distill_website
 listing: posts
 ---

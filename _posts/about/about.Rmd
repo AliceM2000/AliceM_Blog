@@ -1,11 +1,11 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Marin Alice" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
 This section must bu include a short presentation of you.
 
-- first name/surname, teacher’s name, class name and academic year
+- My name is Alice Marin. I am 20 year old. My English teacher's name is Ingrid Van Lancker and my biological data science teachers are Philippe Grosjean and Guyliann Engels. I study biology in 2nd year of bachelor.

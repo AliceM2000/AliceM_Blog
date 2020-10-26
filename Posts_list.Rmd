@@ -1,0 +1,12 @@
+---
+title: "List of posts"
+site: distill::distill_website
+listing: 
+  posts:
+    -2020-10-26-article-1
+---
+
+```{r, echo = FALSE, eval = FALSE}
+#distill::create_post("my post") # use this fonction to create a new post
+```
+

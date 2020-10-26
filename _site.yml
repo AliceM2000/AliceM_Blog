@@ -5,8 +5,12 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "M.E.A.L."
-      href: "posts/meal/index.html"
+    - text: "Sections"
+      menu:
+        - text: "M.E.A.L."
+          href: "posts/meal/index.html"
+        - text: "Subject of study"
+          href: posts_list.html
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github

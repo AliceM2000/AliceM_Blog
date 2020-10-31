@@ -15,8 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
-preview: ![](earthquake and chicken.jpg)
+![](earthquake and chicken.jpg)
 
 ## Description 
 

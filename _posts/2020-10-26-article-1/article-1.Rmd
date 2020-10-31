@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![](earthquake and chicken.jpg)
+preview: ![](earthquake and chicken.jpg)
 
 ## Description 
 
@@ -64,14 +64,15 @@ Least                  |smallest possible quantity/littlest  |moins
 Shake                  |to move with short quick movements side to side/tremble |secouer
 Fund                   |provide money for something/pay for |financer
 Carry out              |to complete a task/perform  |effectuer
+accelerometer          |an instrument for measuring acceleration | accéléromètre
 
 ## Analysis table about study
 
 **Analysis point**            |
 ------------------------------|---------------------------
-*Researches*                  |                           
-*Published in, when?*         |                           
-*General topic*               |                           
-*Procedure, what was examined*|                           
-*Conclusion or discovery*     |                           
-*Remaining questions*         |                           
+*Researches*                  |the Max Planck Institute of Animal Behavior and Principal Investigator at the Centre for the Advanced Study of Collective Behaviour.(Max-Planck-Gesellschaft)
+*Published in, when?*         |on Science daily (july 6 2020)
+*General topic*               |the animal behave unusually before an earthquake.So there is a study on their animal behavior on seismic tremor.The animals have unusual behaviour before a quake, they were very restless. The scientifics attached sensor on animal to capted their movement during several month. The objective is that provide an impending earthquake through animal movements.
+*Procedure, what was examined*|Fristly, the scientifics had different animal (cow, sheep and dog) from the farm italian. The animals had a collar during several month (1800 quakes, 12 strong quakes ). Secondly, the study based in comparison to different factor per exemple the size, the speed, the species,...
+*Conclusion or discovery*     |The results is that the unusual behaviour is a sign of 20 hours before seismic tremor. More the animals are near of earthquake, more fast they have a behaviour changing.
+*Remaining questions*         | a new project will be here to observe more animals at long term in earthquake of area. there will be possible though system Icarus on the International Space Station (ISS). There is too a another remainig question, "how animals can sense impending earthquakes". Several hypothesis exist: smell the quartz of gas or feel the pressure strong of the rocks.

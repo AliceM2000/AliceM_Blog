@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-10-26-article-1/",
+    "title": "Article 1",
+    "description": "The sixth sense of animals in relation to earthquakes.",
+    "author": [
+      {
+        "name": "Marin Alice",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-31T16:49:52+01:00"
+  },
+  {
     "path": "posts/about/",
     "title": "About Me",
     "description": {},

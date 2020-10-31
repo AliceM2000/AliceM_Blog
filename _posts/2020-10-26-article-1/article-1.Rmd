@@ -1,7 +1,7 @@
 ---
-title: "article 1"
+title: "Article 1"
 description: |
-  A short description of the post.
+  The sixth sense of animals in relation to earthquakes.
 author:
   - name: Marin Alice
     url: {}
@@ -15,7 +15,63 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+![](earthquake and chicken.jpg)
 
+## Description 
+
+* Source of the article: Max Planck Gesellschaft
+https://www.sciencedaily.com/releases/2020/07/200706101837.htm 
+
+* Publication date: july 6th 2020, Science Daily
+
+* Word count: 966 words of the article
+
+## Vocabulary
+
+**Word from the text** | **Synonym/definition in English** | **French translation**
+-----------------------|-----------------------------------|--------------------------
+Early                  |Soon/time : in the first part      |Tôt                       
+Earthquake             |It is the result of a sudden release of energy in the Earth's crust that creates seismic waves/seismic tremor                                       |tremblement de terre/séisme
+Reliably               |dependably,certainly,...           | de manière fiable                         
+Eyewitness             |person who has seen a specific event/onlooker   |témoin occulaire                      
+Animal Behavior        |the way an animal functions in a particular situation/animal:habits                              |comportement des animaux
+Whether                | It is conjunction to choice between two possibilities/if  |si                  
+Sensor                 |electronic device that delects something  |capteur, détecteur
+Several                |a few,some,...                     |plusieurs
+Restless               |it is unable to stay still/fidgety |agité
+Impending              |coming soon/imminent               |imminent
+Clue                   |some information that helps the researches/evidence,hint  |indice
+Nevertheless           |however,even so,all the same       |néanmoins,toutefois
+Advance                |development in a particular activity/progress |avance
+Nesting                |bird: build a nest                 |nidification
+Account                |report,explanation                 |compte
+Stand up               |place upright,remain true          |se lever,relever
+Scrutiny               |careful and complete examination/investigation  |examen, contrôle
+Unclear                |animal:not understand fully/inaccurate |pas clair
+Pattern                |arrangement,configuration,system,... |motif, disposition
+Strongly               |fervently/forcibly                 |fortement
+Trigger                |set in motion/provoke              |provoquer, déclencher
+Instead                |in preference of something/in place of something |plutôt
+Event                  |especially something important/occurence |événement
+Ensure                 |to make sure that something happens/guarantee |assurer
+Draw                   |to make pictures/doodle            |dessiner
+Disturbance            |that disturbs something or somebody/commotion |dérangement
+Weak                   |unable to exert force/low          |faible
+Shock                  |a strong feeling of surprise as a result of something happening/impact |choc
+Collar                 |strap around neck of a animal/necklace  |collier
+Least                  |smallest possible quantity/littlest  |moins
+Shake                  |to move with short quick movements side to side/tremble |secouer
+Fund                   |provide money for something/pay for |financer
+Carry out              |to complete a task/perform  |effectuer
+
+## Analysis table about study
+
+**Analysis point**            |
+------------------------------|---------------------------
+*Researches*                  |                           
+*Published in, when?*         |                           
+*General topic*               |                           
+*Procedure, what was examined*|                           
+*Conclusion or discovery*     |                           
+*Remaining questions*         |                           

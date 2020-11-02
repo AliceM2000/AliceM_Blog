@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/2020-10-26-article-1/",
-    "title": "Article 1",
+    "title": "Article 1: An early warning system for earthquake thanks at animals",
     "description": "The sixth sense of animals in relation to earthquakes.",
     "author": [
       {
@@ -12,7 +12,7 @@
     "date": "2020-10-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-31T23:35:22+01:00"
+    "last_modified": "2020-11-02T08:44:54+01:00"
   },
   {
     "path": "posts/about/",

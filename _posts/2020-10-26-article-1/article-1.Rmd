@@ -1,5 +1,5 @@
 ---
-title: "Article 1"
+title: "Article 1: An early warning system for earthquake thanks at animals"
 description: |
   The sixth sense of animals in relation to earthquakes.
 author:

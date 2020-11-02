@@ -3,7 +3,8 @@ title: "List of posts"
 site: distill::distill_website
 listing: 
   posts:
-    -2020-10-26-article-1
+    - 2020-10-26-article-1
+    - 2020-11-02-article-2
 ---
 
 ```{r, echo = FALSE, eval = FALSE}

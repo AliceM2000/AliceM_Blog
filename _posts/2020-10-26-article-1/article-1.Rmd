@@ -66,13 +66,41 @@ Fund                   |provide money for something/pay for |financer
 Carry out              |to complete a task/perform  |effectuer
 accelerometer          |an instrument for measuring acceleration | accéléromètre
 
-## Analysis table about study
+## Analysis about study
 
-**Analysis point**            |
-------------------------------|---------------------------
-*Researches*                  |the Max Planck Institute of Animal Behavior and Principal Investigator at the Centre for the Advanced Study of Collective Behaviour.(Max-Planck-Gesellschaft)
-*Published in, when?*         |on Science daily (6 july 2020)
-*General topic*               |Animals behave unusually before an earthquake.So there is a study on their animal behavior before seismic tremor.The animals had unusual behaviour before a quake, they were very restless. The scientists attached sensor to the animals to detect their movements during several months. The objective is to anticipate an impending earthquake through animal movements.
-*Procedure, what was examined*|Firstly, the scientits had different animals (cow, sheep and dog) from an italian farm. The animals had a collar during several months (1800 quakes, 12 strong quakes ). Secondly, the study was in comparison on different factors per exemple the size, the speed, the species,...
-*Conclusion or discovery*     |The results are that the unusual behaviour is a sign of 20 hours before seismic tremors. The nearer animals are to earthquake, the faster their behaviour changes.
-*Remaining questions*         | a new project will be here to observe more animals at long term in earthquake of area. there will be possible though system Icarus on the International Space Station (ISS). There is too a another remainig question, "how animals can sense impending earthquakes". Several hypothesis exist: smell the quartz of gas or feel the pressure strong of the rocks.
+**Researches?**
+
+  * the Max Planck Institute of Animal Behavior and Principal Investigator at the Centre for the Advanced Study of Collective Behaviour.(Max-Planck-Gesellschaft)
+
+**Published in, when?**
+
+  * on Science daily (6 july 2020)
+
+**General topic**
+
+1. Animals behave unusually before an earthquake.So there is a study on their animal behavior before seismic tremor.
+
+    * The animals had unusual behaviour before a quake -> very restless. 
+
+2. The scientists attached sensor to the animals to detect their movements during several months.
+
+  => The objective is to anticipate an impending earthquake through animal movements.
+
+**Procedure, what was examined**
+
+* Firstly, the different animals (cow, sheep and dog) had a collar during several months (1800 quakes, 12 strong quakes ). 
+
+* Secondly, the study was in comparison on different factors (= the size, the speed, the species,...)
+
+**Conclusion or discovery**
+
+* the unusual behaviour is a sign of 20 hours before seismic tremors. 
+
+* The nearer animals are to earthquake, the faster their behaviour changes.
+
+**Remaining questions**
+
+* a new project = observe more animals at long term in earthquake of area (system Icarus on the International Space Station (ISS)). 
+
+* A another remaining question : "how animals can sense impending earthquakes?"
+    * Several hypothesis exist: smell the quartz of gas / feel the pressure strong of the rocks.

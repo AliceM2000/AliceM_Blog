@@ -19,7 +19,7 @@ base_url: AliceM2000.github.io/AliceM_Blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      #disqus: 
+      disqus: alicem-blog
 output:
   distill::distill_article:
     css: style.css

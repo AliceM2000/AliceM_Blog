@@ -6,6 +6,7 @@ author:
   - name: Marin Alice
     url: {}
 date: 10-26-2020
+preview: earthquake and chicken.jpg
 output:
   distill::distill_article:
     self_contained: false

@@ -1,11 +1,12 @@
 ---
-title: "article 2"
+title: "Article 2: An improvement of welfare thanks chick cry"
 description: |
-  A short description of the post.
+  the chick cry may resolve welfare problem in a new environment 
 author:
   - name: Marin Alice
     url: {}
 date: 11-02-2020
+preview: chick.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +16,58 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+![](chick.jpg)
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Description
 
+* Source of the article: University of Plymouth, https://www.sciencedaily.com/releases/2020/06/200609190730.htm
+
+* Publication date: june 9th 2020, Science Daily
+
+* Word count: 625 words of the article
+
+## Vocabulary
+
+**Word from the text** | **Synonym/definition in English** | **French translation**
+-----------------------|-----------------------------------|------------------------------
+Low cost               |Below the usual cost/Cheap price   |Bas coût                     
+Chick                  |A Baby bird (often a baby chicken) |Poussin
+Welfare                |The general well-being of an individual or group of individual/happiness,good,... | Bien-être
+Pick up                |to get better,stronger/improve     |remonter
+Newly                  |recently,freshly                   |nouvellement
+Hatch                  |animals from eggs/brood,incubate,...|éclore
+Batch                  |a number of people or things that are dealt with as a group/group|lot, groupe
+Surrounding            |that is near something/all around, environment,...|environnant
+Loud                   |making a lot of noice/noisy        |bruyant
+Distress               |need for help/worry                |détresse
+Link                   |connect/joint,bond,...             |relier, lier
+Flock                  |a group of birds of the same type/herd |troupeau
+Rate                   |a measurement of the speed at which something happens/ratio |taux
+Barn                   |a large farm building for keeping animals in/farm building |grange
+Settle                 |make a home/live                   |installer
+Whereas                |while in contrast/while            |tandis que
+Involve                |if a situation, an event or an activity involves something, that thing is an important or necessary part or result of it/ entail |impliquer,supposer
+Soundscape             |An atmosphere or environment created by or with sound/sound landscape|paysage sonore
+Tonal                  |relating to tone                   |tonal
+Overall                |generally/including all the things or people that are involved in a particular situationy |en général, dans l'ensemble
+Computationally        |involving calculation/computational |informatique
+Staff                  |all the workers employed in an organization considered as a group/ personnel|personnel
+Livestock              |the animals kept on a farm/farm animals| bétail
+Emphasise              |
+Alongside              |
+Monitoring             |
+Poultry                |
+
+## Analysis about study
+
+**Researches?**
+
+**Published in, when?**
+
+**General topic**
+
+**Procedure, what was examined**
+
+**Conclusion or discovery**
+
+**Remaining questions**

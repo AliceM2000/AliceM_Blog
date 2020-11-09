@@ -53,10 +53,10 @@ Overall                |generally/including all the things or people that are in
 Computationally        |involving calculation/computational |informatique
 Staff                  |all the workers employed in an organization considered as a group/ personnel|personnel
 Livestock              |the animals kept on a farm/farm animals| bétail
-Emphasise              |
-Alongside              |
-Monitoring             |
-Poultry                |
+Emphasise              |to give special importance to something/say |souligner
+Alongside              |beside, next to                   |à côté de
+Monitoring             |to watch and check something over a period of time in order to see how it develops, so that you can make any necessary changes/ observing, listening   |surveillance
+Poultry                |chickens kept for their meat or eggs/ chicken |volaille
 
 ## Analysis about study
 

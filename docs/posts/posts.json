@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-11-10-graphicdescription/",
+    "title": "graphic_description",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Marin Alice",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-10",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-11-10T10:07:57+01:00"
+  },
+  {
     "path": "posts/2020-11-02-article-2/",
     "title": "Article 2: An improvement of welfare thanks chick cry",
     "description": "the chick cry may resolve welfare problem in a new environment",

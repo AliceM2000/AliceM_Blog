@@ -61,13 +61,43 @@ Poultry                |chickens kept for their meat or eggs/ chicken |volaille
 ## Analysis about study
 
 **Researches?**
-  * University of Plymouth, University of Roehampton, SRUC, and Newcastle University.
-**Published in, when?**
-  * Journal of the Royal Society Interface (9 june 2020)
-**General topic**
 
+  * University of Plymouth, University of Roehampton, SRUC, and Newcastle University.
+  
+**Published in, when?**
+
+  * Journal of the Royal Society Interface (9 june 2020)
+  
+**General topic**
+  
+  * method easy and low-cost -> listening to chick = resolve welfare problem as soon as possible
+  
+  * nature: loud and distinctive chick's distress cry above other noises.
+  
+    * causes discomfort in the environment or other.
+  
 **Procedure, what was examined**
 
+  * acoustic recording = 12 typical flocks of 25,000 chicks
+  
+  * the first day: all chicks cry ->  a new strange environment. After , the cry chicks less (accustomed by the environment).
+  
+    * tool use at the right time (simple intervention for animals welfare) => use early in life,bring an improvement
+    
+    * work not additional to the farmer.
+    
+  * metohd study: Soundscape (sound more tonic at the chicks) -> alarm precocious to the farmer
+  
 **Conclusion or discovery**
 
+  * advantage for surveillance (danger alarm)
+  
+  * improve welfare behavioral and emotional animal centric
+  
 **Remaining questions**
+
+  * vocalization = very important for animals. 
+  
+  * so a lot of study new future.
+  
+    -> to progress in precision livestock farming.

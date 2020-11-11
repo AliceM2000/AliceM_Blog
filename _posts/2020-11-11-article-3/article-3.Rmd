@@ -20,9 +20,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Description
 
-* Source of the article:
+* Source of the article: Max-Planck-Gesellschaft, https://www.sciencedaily.com/releases/2020/06/200622133020.htm
 
-* Publication date:
+* Publication date: June 22th 2020, Science Daily (Nature Ecology & Evolution )
 
 * Word count: 617 words of the article
 

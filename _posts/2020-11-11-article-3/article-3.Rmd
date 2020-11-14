@@ -1,7 +1,7 @@
 ---
-title: "Article 3"
+title: "Article 3 : The reaction of wildlife on reduction human activity "
 description: |
-  A short description of the post.
+  Human impact on wildlife in the relation to COVID-19 lockdown
 author:
   - name: Marin Alice
     url: {}
@@ -28,7 +28,38 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Vocabulary
 
-
+**Word from the text** | **Synonym/definition in English** | **French translation**
+-----------------------|-----------------------------------|---------------------------------
+Lockdown               |mass quarantine to control disease/confinement |Confinement
+reveal                 |to make something known to somebody /show,disclose |Révéler
+wildlife               |animals that are wild and live in a natural environment/animals |faune
+devastating            |causing a lot of damage and destroying things/catastrophic |dévastatrice
+crisis                 |a time of great danger, difficulty or doubt when problems must be solved or important decisions must be made/emergency |crise
+increasingly           |more and more/progressively |De plus en plus
+crowd                  |to form a group of people/group |peupler, s'attrouper
+both                   |the one as well as the other/the two |tous les deux 
+spread                 | the act of spreading ideas or information among many people/extention |Propagation
+reduce                 |to make something less to become less/decrease |réduire
+insight                |an understanding of what something is like/perception |perspicacité
+countless              |too many to be counted or mentioned/very many |d'innombrables
+encounter              |experience a problem/run into |rencontrer
+spotted                |having a regular pattern of small dots on it/dotted |tacheté
+prowl                  |to move quietly and carefully around an area, especially when hunting/slink |rôder
+show up                |to arrive where you have arranged to meet somebody or do something/appear |faire apparaître
+urban-dwelling         |group of dwellings such that none is separated from the nearest/city |habitation urbain
+struggle               |to try very hard to do something when it is difficult or when there are a lot of problems/strive |épreuve
+poaching               |the illegal practice of hunting or fishing/hunt illegally  |braconnage
+tackle                 |
+hardship               |
+argue                  |
+nifty                  |
+device                 |
+field                  |
+tracking               |
+goldmine               |
+attempt                |
+landscape              |
+unforeseen             |
 
 ## Analysis about study
 

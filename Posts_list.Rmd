@@ -6,6 +6,7 @@ listing:
     - 2020-10-26-article-1
     - 2020-11-02-article-2
     - 2020-11-11-article-3
+    - 2020-11-15-article-4
 ---
 
 ```{r, echo = FALSE, eval = FALSE}

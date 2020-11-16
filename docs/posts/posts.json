@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2020-11-15-article-4/",
-    "title": "article 4",
-    "description": "A short description of the post.",
+    "title": "Article 4: A new bond between human and cat",
+    "description": "A team of psychologists finds a new way to link with their cat.",
     "author": [
       {
         "name": "Marin Alice",
@@ -11,8 +11,8 @@
     ],
     "date": "2020-11-15",
     "categories": [],
-    "preview": {},
-    "last_modified": "2020-11-15T20:20:39+01:00"
+    "preview": "posts/2020-11-15-article-4/cat and human.webp",
+    "last_modified": "2020-11-16T20:04:03+01:00"
   },
   {
     "path": "posts/meal/",

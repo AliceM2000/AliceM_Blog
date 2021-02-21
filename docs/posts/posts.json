@@ -1,5 +1,50 @@
 [
   {
+    "path": "posts/2021-02-20-article-7/",
+    "title": "Article 7 : Relation between plant diversity and bee diversity",
+    "description": "A study on the behavior of bumble bees and honey bees in relation to the same flower in the south of england",
+    "author": [
+      {
+        "name": "Alice Marin",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-22",
+    "categories": [],
+    "preview": "posts/2021-02-20-article-7/bee flower.webp",
+    "last_modified": "2021-02-21T15:12:55+01:00"
+  },
+  {
+    "path": "posts/2021-02-20-article-6/",
+    "title": "Article 6 : Birds living in natural habits improve captive care",
+    "description": "Birds species in natural habits can help zoos to improve care captive",
+    "author": [
+      {
+        "name": "Alice Marin",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-21",
+    "categories": [],
+    "preview": "posts/2021-02-20-article-6/Calaos.webp",
+    "last_modified": "2021-02-21T13:07:31+01:00"
+  },
+  {
+    "path": "posts/2021-02-20-article-5/",
+    "title": "Article 5 : Changes in animal behavior against climate change",
+    "description": "Biologists have made 3 studies of the movements of certain animals in different places in the world in relation to climate change",
+    "author": [
+      {
+        "name": "Alice Marin",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-20",
+    "categories": [],
+    "preview": "posts/2021-02-20-article-5/polar bear.webp",
+    "last_modified": "2021-02-21T13:07:28+01:00"
+  },
+  {
     "path": "posts/meal/",
     "title": "My English Activity Log : MEAL",
     "description": {},

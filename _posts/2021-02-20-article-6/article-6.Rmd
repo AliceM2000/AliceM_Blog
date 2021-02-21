@@ -1,0 +1,60 @@
+---
+title: "Article 6 : Birds living in natural habits improve captive care"
+description: |
+  Birds species in natural habits can help zoos to improve care captive 
+author:
+  - name: Alice Marin
+    url: {}
+date: 02-21-2021
+preview: Calaos.webp
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![](Calaos.webp)
+
+## Description
+
+* Source of the article: University of Exeter https://www.sciencedaily.com/releases/2021/02/210205104233.htm
+
+* Publication word: Februari 5th 2021, Science daily
+
+* Word count: 665 words of the article
+
+## Vocabulary
+
+**Word from the text** | **Synonym/definition in English** | **French translation**
+-----------------------|-----------------------------------|---------------------------
+
+
+## Analysis about study
+
+**Researches?**
+
+  
+
+**Published in, when?**
+
+  
+
+**General topic**
+
+  
+
+**Procedure, what was examined**
+
+ 
+
+**Conclusion or discovery**
+
+  
+
+**Remaining questions**
+
+  

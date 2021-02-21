@@ -31,7 +31,34 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Word from the text** | **Synonym/definition in English** | **French translation**
 -----------------------|-----------------------------------|---------------------------
-
+Captive                |
+Housed                 |
+Likewise               |
+Wild                   |
+Furthering             |
+Linked                 |
+Field                  |
+Gathered               |
+Breeding               |
+Promote                |
+Commoner               |
+Sustainability         |
+Rainforest             |
+Helmeted hornbill      |
+Dispersal              |
+Pristine               |
+Whilst                 |
+Enclosures             |
+Nesting                |
+Hatch                  |
+Enable                 |
+Kingfishers            |
+Reliant                |
+Neighbouring           |
+Amongst                |
+Expertise              |
+Fledge                 |
+Wider                  |
 
 ## Analysis about study
 

@@ -31,6 +31,38 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Word from the text** | **Synonym/definition in English** | **French translation**
 -----------------------|-----------------------------------|---------------------------
+Climate change         | the increase in temperature of the earth’s atmosphere that is caused by the increase of carbon dioxide /Global warming |Changement climatique
+Behavioral             | Connected with the scientific study of animal behaviour/of behavior |Comportemental
+Unexpected             | it surprises you because you were not expecting it/surprising | imprévu, inattendu
+Across                 | From one side to other/through |à travers
+Moose                  | a large deer that lives in North America. In Europe and Asia/elk |élan
+Feasibility            | the quality of being possible and likely to be achieved/viability |Faisabilité
+Global                 | covering or affecting the whole world/Worldwide |Mondial
+Cover                  | to place something over or in front of something in order to protect /protect | Couvrir
+Landscape              | everything you can see when you look across a large area of land, especially in the country/view |Paysage
+Agency                 | an organization, company, or bureau that provides a particular service/service |Agence
+Jurisdiction           | the right, power, or authority to administer justice by hearing and determining controversies/authority |Juridiction
+Spend                  | to pay out money,resources/pay |dépenser
+Throughout             | in or into every part of something/all over |tout au long de
+Convey                 | to make ideas known to somebody/communicate |communiquer
+Include                | to contain or have as part of a whole/contain |comprendre 
+Tracking               | to make somebody/something part of something/path |pistage,suivi
+Lowland                | connected with an area of land that is fairly flat and not very high above sea level/low-lying region | plaines
+Woodland               | land full of trees/wood | bois
+Tricky                 | difficult to do or deal with/difficult | difficile
+Calf                   | an animal/young cow | veau
+Unprecedented          | that has never happened, been done or been known before/unique |sans précédent 
+Harsh                  | cruel, severe and unkind/rigid |sévère
+Inquiry                | a seeking or request for truth, information, or knowledge/investigation |enquête
+Forward                | towards a place or position that is in front/onward | en avant
+Lead                   |to go before or with to show the way/guide | guider
+Golden eagles          | large bird of prey/bird | Aigle royal
+Shift                  | to move from one place, person, etc., to another/move | déplacer
+Decade                 | a period of ten years/ten years | décennie
+Predator               | any organism that exists by preying on another/hunting animal | Prédateur
+Prey                   | an animal hunted for food/target | proie
+Whether                | a castrated male sheep/sheep | mouton
+Baseline               | a basic standard/guideline | référence
 
 
 ## Analysis about study

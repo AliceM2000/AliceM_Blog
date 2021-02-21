@@ -31,7 +31,31 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Word from the text** | **Synonym/definition in English** | **French translation**
 -----------------------|-----------------------------------|---------------------------
-
+Honey bees             |
+Bumble bees            |
+Widespread bees        |
+Foraging               |
+Mediating              |
+Bodyweight             |
+Efficiency             |
+Reverse                |
+Nearby                 |
+Gather                 |
+Stopwatches            |
+Compensate             |
+Ling heather           |
+Nimbler                |
+Tightrope              |
+Reassuring             |
+Predominate            |
+Wider                  |
+Allotment              |
+Cutting                |
+Pollinators            |
+Advantage              |
+Head                   |
+Garden                 |
+Summer-blooming        |
 
 ## Analysis about study
 

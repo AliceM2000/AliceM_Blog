@@ -46,24 +46,24 @@ Nevertheless           |however,even so,all the same       |néanmoins,toutefois
 Advance                |development in a particular activity/progress |avance
 Nesting                |bird: build a nest                 |nidification
 Account                |report,explanation                 |compte
-Stand up               |place upright,remain true          |se lever,relever
+To stand up            |place upright,remain true          |se lever,relever
 Scrutiny               |careful and complete examination/investigation  |examen, contrôle
 Unclear                |animal:not understand fully/inaccurate |pas clair
 Pattern                |arrangement,configuration,system,... |motif, disposition
 Strongly               |fervently/forcibly                 |fortement
-Trigger                |set in motion/provoke              |provoquer, déclencher
+To Trigger             |set in motion/provoke              |provoquer, déclencher
 Instead                |in preference of something/in place of something |plutôt
 Event                  |especially something important/occurence |événement
-Ensure                 |to make sure that something happens/guarantee |assurer
-Draw                   |to make pictures/doodle            |dessiner
+To Ensure              |to make sure that something happens/guarantee |assurer
+To Draw                |to make pictures/doodle            |dessiner
 Disturbance            |that disturbs something or somebody/commotion |dérangement
 Weak                   |unable to exert force/low          |faible
 Shock                  |a strong feeling of surprise as a result of something happening/impact |choc
 Collar                 |strap around neck of a animal/necklace  |collier
 Least                  |smallest possible quantity/littlest  |moins
 Shake                  |to move with short quick movements side to side/tremble |secouer
-Fund                   |provide money for something/pay for |financer
-Carry out              |to complete a task/perform  |effectuer
+To Fund                |provide money for something/pay for |financer
+To Carry out           |to complete a task/perform  |effectuer
 accelerometer          |an instrument for measuring acceleration | accéléromètre
 
 ## Analysis about study

@@ -31,12 +31,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Word from the text** | **Synonym/definition in English** | **French translation**
 -----------------------|-----------------------------------|---------------------------
-Captive                |
-Housed                 |
-Likewise               |
-Wild                   |
-Furthering             |
-Linked                 |
+Captive                | kept or held in confinement/confined |Captive
+To House               | to provide with a place/domicile | Abriter
+Likewise               | moreover/also | De même
+Wild                   | living in a natural and untamed environment/savage | Sauvage
+To Link                | To connect/joint,bond,... | Relier
 Field                  |
 Gathered               |
 Breeding               |

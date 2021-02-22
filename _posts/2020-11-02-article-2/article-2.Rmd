@@ -33,27 +33,27 @@ knitr::opts_chunk$set(echo = FALSE)
 Low cost               |Below the usual cost/Cheap price   |Bas coût                     
 Chick                  |A Baby bird (often a baby chicken) |Poussin
 Welfare                |The general well-being of an individual or group of individual/happiness,good,... | Bien-être
-Pick up                |to get better,stronger/improve     |remonter
+To Pick up             |to get better,stronger/improve     |remonter
 Newly                  |recently,freshly                   |nouvellement
 Hatch                  |animals from eggs/brood,incubate,...|éclore
 Batch                  |a number of people or things that are dealt with as a group/group|lot, groupe
 Surrounding            |that is near something/all around, environment,...|environnant
 Loud                   |making a lot of noice/noisy        |bruyant
 Distress               |need for help/worry                |détresse
-Link                   |connect/joint,bond,...             |relier, lier
+To Link                |connect/joint,bond,...             |relier, lier
 Flock                  |a group of birds of the same type/herd |troupeau
 Rate                   |a measurement of the speed at which something happens/ratio |taux
 Barn                   |a large farm building for keeping animals in/farm building |grange
-Settle                 |make a home/live                   |installer
+To Settle              |make a home/live                   |installer
 Whereas                |while in contrast/while            |tandis que
-Involve                |if a situation, an event or an activity involves something, that thing is an important or necessary part or result of it/ entail |impliquer,supposer
+To Involve             |if a situation, an event or an activity involves something, that thing is an important or necessary part or result of it/ entail |impliquer,supposer
 Soundscape             |An atmosphere or environment created by or with sound/sound landscape|paysage sonore
 Tonal                  |relating to tone                   |tonal
 Overall                |generally/including all the things or people that are involved in a particular situationy |en général, dans l'ensemble
 Computationally        |involving calculation/computational |informatique
 Staff                  |all the workers employed in an organization considered as a group/ personnel|personnel
 Livestock              |the animals kept on a farm/farm animals| bétail
-Emphasise              |to give special importance to something/say |souligner
+To Emphasise           |to give special importance to something/say |souligner
 Alongside              |beside, next to                   |à côté de
 Monitoring             |to watch and check something over a period of time in order to see how it develops, so that you can make any necessary changes/ observing, listening   |surveillance
 Poultry                |chickens kept for their meat or eggs/ chicken |volaille

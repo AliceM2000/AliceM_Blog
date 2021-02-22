@@ -36,19 +36,20 @@ To House               | to provide with a place/domicile | Abriter
 Likewise               | moreover/also | De même
 Wild                   | living in a natural and untamed environment/savage | Sauvage
 To Link                | To connect/joint,bond,... | Relier
-Field                  |
-Gathered               |
-Breeding               |
-Promote                |
-Commoner               |
-Sustainability         |
-Rainforest             |
-Helmeted hornbill      |
-Dispersal              |
-Pristine               |
-Whilst                 |
-Enclosures             |
-Nesting                |
+Field                  | a large area or expanse of anything/terrain | Terrain
+To Gather              | information : collate/collect | Recueillir
+Breeding               | raising animal/species | élevage
+To Promote             | to help or encourage to flourish/advertise | Promouvoir
+Commoner               | a person who does not come from a royal or noble family/ common man | roturier, roturière
+Sustainability         | ecology: renewability/durability | Durabilité
+Rainforest             | dense woodland in rainy region/cloud forest | Forêt tropicale
+Helmeted               | wearing a helmet    | Casqué
+Hornbill               | a tropical bird with a very large curved beak | Calao
+Dispersal              | the act of dispersing or of being dispersed/scattering | Dispersion
+Pristine               | having its original purity/natural | vierge,pur
+Whilst                 | while/although   | Bien que
+Enclosure              | enclosed area for animals/pen | enclos
+Nesting                | bird: building a nest/
 Hatch                  |
 Enable                 |
 Kingfishers            |

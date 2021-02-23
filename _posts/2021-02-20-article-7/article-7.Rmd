@@ -31,9 +31,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Word from the text** | **Synonym/definition in English** | **French translation**
 -----------------------|-----------------------------------|---------------------------
-Honey bees             |
-Bumble bees            |
-Widespread bees        |
+Honey bee              | any bee that collects and stores honey/honey-producing flying insect | Abeille mellifère
+Bumblebee              | 
+Widespread bee         |
 Foraging               |
 Mediating              |
 Bodyweight             |

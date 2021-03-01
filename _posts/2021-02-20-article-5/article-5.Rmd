@@ -69,24 +69,75 @@ Baseline               | a basic standard/guideline | référence
 
 **Researches?**
 
-  
+  * The University of Maryland
 
 **Published in, when?**
 
-  
+  * In journal Science (6 november 2020)
 
 **General topic**
 
+  * Biologist -> a data archive of animal movement studies in relation to climate change
   
+    * from across the global Arctic and sub-Arctic (most affected by global warming)
+    
+  * 3 studies -> show surprising trends and associations between climate change and animal behavior
+  
+    * animals study -> golden eagles, bears, caribou, moose and wolves
 
 **Procedure, what was examined**
 
- 
+  * difficult to study general tendency of animal behavior
+   
+    * Cause :
+      
+      -> animal ecology not studied in landscapes (cover entire regions on earth) 
+      
+      -> data needed in various organizations and jurisdictions (not available and not standardized)
+    
+    * Solution : creation of a relationship with scientists from national governments, regions and first nations and research groups from all over the Arctic
+    
+      -> global repository = Arctic Animal Movement Archive (AAMA)
+      
+      -> more than 100 universities, government agencies and groups conversation of 17 countries
+  
+  * Data from 201 monitoring studies of terrestrial and marine animals (8000 animals between 1991 and today)
+  
+  * First study = movement of 900 female caribou from 2000 to 2017 (University of Mayland)
+  
+  * Second study = movement of over 100 golden eagles from 1993 to 2017 (University Columbia)
+  
+  * Third study = examine the speed of movement of bears, caribou, moose and wolves from 1998 to 2019 (University Washington)
+  
+  * analysis tools -> the same for each of the studies
 
 **Conclusion or discovery**
 
+  * Result of the first study :
+    
+    * Migratory caribou -> give birth earlier in the spring (depending on the rate of warming)
+    
+    * Non-migratory caribou -> only the northern subpopulations = same as the migrants
+    
+    => give birth earlier -> grow during the summer season but don't have time to reach the optimal calving grounds
   
+  * Result of the second study :
+  
+    * immature birds -> migrating north in the spring arrived earlier following mild winters (not adult birds)
+    
+    => The timing shift for young birds -> response to climate change,
+    age-related behavior changes ->only through decades of movement data 
+  
+  * Result of the third study :
+  
+    * species -> react differently to seasonal temperature and winter snow conditions 
+    
+    => Those differences -> influence species interactions, food competition and predator-prey dynamics.
 
 **Remaining questions**
 
+  * Other scientists continue to use AAMA -> Answer to questions about the reaction of animals to the evolution of the Arctic side
   
+  * AAMA continue to have more and more data
+  
+  * essential to understand their behavior to predict their reaction to global warming.

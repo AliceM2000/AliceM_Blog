@@ -69,16 +69,43 @@ Grass                  | an area of ground covered with grass/pasture | Gazon
 
 **General topic**
 
+  * Common to see bumblebees and honey bee -> feeding on the same species of flowers
   
+  * researchers from the Beekeeping and Social Insects Laboratory (LASI) -> dominance of different bees on a particular species of flowers
 
 **Procedure, what was examined**
 
- 
+  * 22 species of flowers in the south of england + behavior of over 1000 bees
+    
+    * discover energy efficiency (for the mediation of competition)
+    
+  * energetic efficiency
+    
+    * bee body weight (weight proportional to energy) and speed (visit plant), minimum number of flowers, quantity of nectar and energy
+    
+    => ratio of these factors -> energy efficiency
+    
+    * importance for bee -> loss of half of energy to take nectar and displacement
+    
+  * use stopwatch -> how many flower in 1 minute + use electronic scale -> weigh each bee
+  
+  * study of flower species in various places (nature reserve, countryside, garden, park and flower bed)
 
 **Conclusion or discovery**
 
-  
+  * same flower use -> bumblebee more numerous than honey bee on particular flower (and conversely on another species of flower nearby)
+    
+    * bumblebee -> quick to visit flower (more nectar) but bigger (2X more energy)
 
+  * Lavender -> dominate by bumblebees (visiting flowers at roughly 3X from bee rate)
+  
+  * difference in morphology of the flower = impact on energy efficiency 2 types bee 
+  
+    * Ling heather = small flower therefore dominant honey bee + Erica heather = large flower therefore dominant bumblebee
+    
+  * No dispute between honey bee and bumblebees (good for conservation and coexistence)
+  
 **Remaining questions**
 
-  
+  * flower diversity = a priority in bee conservation efforts
+

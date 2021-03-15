@@ -1,0 +1,59 @@
+---
+title: "Article 8 : Ants swallow their own acid to protect themselves from germs "
+description: |
+  Ants use formic acid to disinfect themselves (kill bacteria) and disinfect their stomachs (improve their intestinal flora)
+author:
+  - name: Alice Marin
+    url: {}
+date: 03-15-2021
+preview: Ants.webp
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![](Ants.webp)
+
+## Description
+
+* Source of the article: Martin-Luther-Universität Halle-Wittenberg https://www.sciencedaily.com/releases/2020/11/201103104730.htm 
+
+* Publication word: November 3th 2020, Science daily
+
+* Word count: 474 words of the article
+
+## Vocabulary
+
+**Word from the text** | **Synonym/definition in English** | **French translation**
+-----------------------|-----------------------------------|---------------------------
+
+
+## Analysis about study
+
+**Researches?**
+
+
+
+**Published in, when?**
+
+
+
+**General topic**
+
+
+
+**Procedure, what was examined**
+
+
+
+**Conclusion or discovery**
+
+
+  
+**Remaining questions**
+

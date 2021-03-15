@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Source of the article: University of Sussex https://www.sciencedaily.com/releases/2021/02/210210091131.htm
 
-* Publication word: Februari 10th 2020, Science daily
+* Publication word: Februari 10th 2021, Science daily
 
 * Word count: 688 words of the article
 

@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2021-03-15-article-8/",
+    "title": "Article 8 : Ants swallow their own acid to protect themselves from germs ",
+    "description": "Ants use formic acid to disinfect themselves (kill bacteria) and disinfect their stomachs (improve their intestinal flora)",
+    "author": [
+      {
+        "name": "Alice Marin",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-15",
+    "categories": [],
+    "preview": "posts/2021-03-15-article-8/Ants.webp",
+    "last_modified": "2021-03-15T20:34:12+01:00"
+  },
+  {
     "path": "posts/2021-02-20-article-7/",
     "title": "Article 7 : Relation between plant diversity and bee diversity",
     "description": "A study on the behavior of bumble bees and honey bees in relation to the same flower in the south of england",
@@ -12,7 +27,7 @@
     "date": "2021-02-22",
     "categories": [],
     "preview": "posts/2021-02-20-article-7/bee flower.webp",
-    "last_modified": "2021-03-08T14:51:56+01:00"
+    "last_modified": "2021-03-15T14:53:03+01:00"
   },
   {
     "path": "posts/2021-02-20-article-6/",

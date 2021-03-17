@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2021-03-17-article-9/",
+    "title": "Article 9",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Alice Marin",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-17",
+    "categories": [],
+    "preview": "posts/2021-03-17-article-9/Pinker flamingos.jpg",
+    "last_modified": "2021-03-17T22:55:39+01:00"
+  },
+  {
     "path": "posts/2021-03-15-article-8/",
     "title": "Article 8 : Ants swallow their own acid to protect themselves from germs ",
     "description": "Ants use formic acid to disinfect themselves (kill bacteria) and disinfect their stomachs (improve their intestinal flora)",
@@ -12,7 +27,7 @@
     "date": "2021-03-15",
     "categories": [],
     "preview": "posts/2021-03-15-article-8/Ants.webp",
-    "last_modified": "2021-03-15T20:34:12+01:00"
+    "last_modified": "2021-03-17T22:39:26+01:00"
   },
   {
     "path": "posts/2021-02-20-article-7/",

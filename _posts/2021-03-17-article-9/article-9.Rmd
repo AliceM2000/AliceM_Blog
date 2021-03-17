@@ -1,0 +1,61 @@
+---
+title: "Article 9"
+description: |
+  A short description of the post.
+author:
+  - name: Alice Marin
+    url: {}
+date: 03-17-2021
+preview: Pinker flamingos.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![](Pinker flamingos.jpg)
+
+## Description
+
+* Source of the article: University of Exeter https://www.sciencedaily.com/releases/2020/06/200607195010.htm
+
+* Publication word: June 7th 2020, Science daily
+
+* Word count: 481 words of the article
+
+## Vocabulary
+
+**Word from the text** | **Synonym/definition in English** | **French translation**
+-----------------------|-----------------------------------|---------------------------
+
+
+## Analysis about study
+
+**Researches?**
+
+
+
+**Published in, when?**
+
+
+
+**General topic**
+
+
+
+**Procedure, what was examined**
+
+
+  
+
+**Conclusion or discovery**
+
+
+  
+**Remaining questions**
+
+

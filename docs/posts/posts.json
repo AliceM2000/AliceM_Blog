@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2021-03-17-article-9/",
-    "title": "Article 9",
-    "description": "A short description of the post.",
+    "title": "Article 9 : The most aggressive pinkers flamingos",
+    "description": "Brilliant flamingos are more aggressive than paler flamingos in the fight for food",
     "author": [
       {
         "name": "Alice Marin",
@@ -12,7 +12,7 @@
     "date": "2021-03-17",
     "categories": [],
     "preview": "posts/2021-03-17-article-9/Pinker flamingos.jpg",
-    "last_modified": "2021-03-17T22:55:39+01:00"
+    "last_modified": "2021-03-21T21:30:23+01:00"
   },
   {
     "path": "posts/2021-03-15-article-8/",

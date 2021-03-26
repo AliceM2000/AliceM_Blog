@@ -32,10 +32,10 @@ knitr::opts_chunk$set(echo = FALSE)
 **Word from the text** | **Synonym/definition in English** | **French translation**
 -----------------------|-----------------------------------|---------------------------
 Fighting               | the activity of being involved in a battle against an enemy/combat | Combat
-Factor                 |  
-Whether                |
-Rival                  |
-Opponent               |
+Factor                 | one of several things that cause or influence something/element | Facteur
+Whether                | used to express a doubt or choice between two possibilities/if | Si
+Rival                  | a person, company or thing that competes with another in sport, business, etc./adversary | Rival
+Opponent               | 
 Outcome                |
 To overlook            |
 Instead                |

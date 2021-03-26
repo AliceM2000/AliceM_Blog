@@ -1,0 +1,86 @@
+---
+title: "Article 10 : Several factors are taken into account by groups of animals before fighting"
+description: |
+  According to the researchers, groups of animals analyze on the basis of several factors before deciding to fight their rivals.
+author:
+  - name: Alice Marin
+    url: {}
+date: 03-26-2021
+preview: confrontation.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![](confrontation.jpg)
+
+## Description
+
+* Source of the article: University of Exeter https://www.sciencedaily.com/releases/2020/11/201110133202.htm
+
+* Publication word: November 10th 2020, Science daily
+
+* Word count: 550 words of the article
+
+## Vocabulary
+
+**Word from the text** | **Synonym/definition in English** | **French translation**
+-----------------------|-----------------------------------|---------------------------
+Fighting               | the activity of being involved in a battle against an enemy/combat | Combat
+Factor                 |  
+Whether                |
+Rival                  |
+Opponent               |
+Outcome                |
+To overlook            |
+Instead                |
+To Weigh up            |
+To assess              |
+Dyadic                 |
+Framework              |
+To contest             |
+Highlight              |
+Strong individual      |
+To overcome            |
+Meerkat                |
+Pup                    |
+Narrow                 |
+Entrance               |
+Baboon                 |
+To Avoid               |
+Opponent up            |
+Scope                  |
+Warfare                |
+Funders                |
+Collectively           |
+
+## Analysis about study
+
+**Researches?**
+
+  * the Universities of Exeter and Plymouth
+
+**Published in, when?**
+
+  * in Ecology & Evolution (10 November 2020)
+
+**General topic**
+
+
+
+**Procedure, what was examined**
+
+
+
+**Conclusion or discovery**
+
+
+  
+**Remaining questions**
+
+

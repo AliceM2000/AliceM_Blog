@@ -35,29 +35,28 @@ Fighting               | the activity of being involved in a battle against an e
 Factor                 | one of several things that cause or influence something/element | Facteur
 Whether                | used to express a doubt or choice between two possibilities/if | Si
 Rival                  | a person, company or thing that competes with another in sport, business, etc./adversary | Rival
-Opponent               | 
-Outcome                |
-To overlook            |
-Instead                |
-To Weigh up            |
-To assess              |
-Dyadic                 |
-Framework              |
-To contest             |
-Highlight              |
-Strong individual      |
-To overcome            |
-Meerkat                |
-Pup                    |
-Narrow                 |
-Entrance               |
-Baboon                 |
-To Avoid               |
-Opponent up            |
-Scope                  |
-Warfare                |
-Funders                |
-Collectively           |
+Opponent               | a person that you are playing or fighting against in a game, competition, argument, etc./adversary | Adversaire
+Outcome                | a final product or end result,consequence/issue | issue
+To overlook            | to fail to notice or think about, not see the importance of/command | Négliger, oublier
+Instead                | as a substitute,in place of someone or something/alternatively | plutôt
+To Weigh up            | to make an assessment of a person, situation, etc, judge/ consider | comparer
+To assess              | to evaluate the importance or character of something/evaluate | évaluer
+Dyadic                 | consisting of two parts/based on two | Dyadique
+Framework              | a set of beliefs, ideas or rules that is used as the basis for making judgements, decisions, etc./structure | Cadre
+Contest                | a competition in which people try to win something/competition | Concours
+To Highlight           |  to emphasize something, especially so that people give it more attention/text | souligner
+Strong                 | having a lot of physical power so that you can lift heavy weights, do hard physical work, etc./robust | Fort
+To overcome            | to succeed in dealing with or controlling a problem that has been preventing you from achieving something/win | vaincre 
+Meerkat                | a small southern African animal with a long tail, which often stands up on its back legs. Meerkats are a type of mongoose | Suricate
+Pup                    | the young of certain other animals/puppy | jeune,chiot,...
+Narrow                 | measuring a short distance from one side to the other, especially in relation to length/thin | étroit
+Entrance               | the act of entering a room, building or place, especially in a way that attracts the attention of other people/entry | entrée
+Baboon                 | a large African or Asian monkey with a long face like a dog’s/large monkey | Babouin
+To Avoid               | to prevent something bad from happening/evade | éviter
+Scope                  | the opportunity or ability to do or achieve something/potential | cadre
+Warfare                | the activity of competing in an aggressive way with another group/conflict | Lutte
+Funders                | a person or an organization that provides money for a particular purpose/backer |  bailleurs de fonds
+Collectively           | in a way that is done or shared by all members of a group of people; in a way that involves a whole group or society/together | Collectivement
 
 ## Analysis about study
 

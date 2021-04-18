@@ -1,0 +1,18 @@
+---
+title: "Introduction"
+categories: Introduction
+author:
+  - name: Alice Marin
+    url: {}
+date: 04-16-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+ The theme of this portfolio is "Ethology". Firstly what is Ethology? Ethology is scientific studies of animal behaviours but too human behaviours in situation of life variable for example in natural habitat, in experimental environment, in captivity, …  This study focus on scientific methods of observation and quantification animal behaviours. One of the pioneers of ethology is Charles Darwin for the choice of the sexual partner which confirms the theory of natural selection. But there  are many other pioneers of ethology such as Konrad Lorenz or Nikolaas Tinbergen. Ethology organize about 3 big questions : What is the cause of the behaviour? What is its value of the survival ? How was it set up during the life of the individual and the evolution of the species? Currently there a scientific training to become an ethologist .Secondly why I chose this topic? I chose this theme because it has always fascinated me to understand animals. In my opinion, each living being has a consciousness that allows it to survive, grow and reproduce on this earth full of danger. If we understand better the animal behaviours then we will better understand the nature around us. I think as well that each species is connected with each other and also with us. Our future on earth is binded to the different species that made it up. Our future will be better between animals and humans. Thirdly what the impacts of ethology? Ethology has allowed to improve species in captivity and also wild species to the level of their protection, species reintroduction or well-being animal. Finally I will present several article to give different example of animal behaviours in comparison to different situation like their capacity adaptation in a new environment or also in their influence on our society. Thanks to these 10 articles, I will make you discover a part of the ethology...
+

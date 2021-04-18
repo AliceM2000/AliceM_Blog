@@ -18,6 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ![](earthquake and chicken.jpg)
+
 ## Description 
 
 * Source of the article: Max Planck Gesellschaft

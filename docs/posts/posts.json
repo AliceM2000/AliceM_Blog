@@ -1,5 +1,39 @@
 [
   {
+    "path": "posts/2021-04-16-conclusion/",
+    "title": "Conclusion",
+    "description": {},
+    "author": [
+      {
+        "name": "Alice Marin",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-16",
+    "categories": [
+      "Conclusion"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-17T12:34:06+02:00"
+  },
+  {
+    "path": "posts/2021-04-16-introduction/",
+    "title": "Introduction",
+    "description": {},
+    "author": [
+      {
+        "name": "Alice Marin",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-16",
+    "categories": [
+      "Introduction"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-18T09:26:13+02:00"
+  },
+  {
     "path": "posts/2021-03-26-article-10/",
     "title": "Article 10 : Several factors are taken into account by groups of animals before fighting",
     "description": "According to the researchers, groups of animals analyze on the basis of several factors before deciding to fight their rivals.",
@@ -184,7 +218,7 @@
     "date": "2020-10-26",
     "categories": [],
     "preview": "posts/2020-10-26-article-1/earthquake and chicken.jpg",
-    "last_modified": "2021-02-22T19:29:16+01:00"
+    "last_modified": "2021-04-16T09:08:55+02:00"
   },
   {
     "path": "posts/about/",

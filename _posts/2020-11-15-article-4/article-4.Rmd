@@ -34,35 +34,35 @@ knitr::opts_chunk$set(echo = FALSE)
 Paw                    |the foot of an animal that has claws or nails/pad |Patte
 Purr-fect              |cat:vibrating sounds/purring       | Ronronnement
 Slow blink             |eyes:slow opening-and-closing/slow wink |Clignement lent
-Parallels              |two or more lines that are parallel to each other are the same distance apart at every point/line | Parallèle
+Parallel               |two or more lines that are parallel to each other are the same distance apart at every point/line | Parallèle
 Genuine                |real; exactly what it appears to be; not artificial/authentic |Véritable
-To Lead                |to go with or in front of a person or an animal to show the way or to make them go in the right direction/guide |guider
-To Reveal              |to make something known to somebody/show |révèler
+To Lead                |to go with or in front of a person or an animal to show the way or to make them go in the right direction/to guide |guider
+To Reveal              |to make something known to somebody/to show |révèler
 Owner                  |a person who owns something/possessor    |Propriétaire 
-To Outstretch          |hold out/extend                          |étendre
-To Deliver                |to give or send information or ideas to somebody/give | Prononcer
-To Investigate         |to carefully examine the facts of a situation to find out the truth about it or how it happened/examine |enquêter
-To Enhance                |to increase or further improve the good quality, value or status of something/improve |améliorer
+To Outstretch          |to hold out/to extend                          |étendre
+To Deliver                |to give or send information or ideas to somebody/to give | Prononcer
+To Investigate         |to carefully examine the facts of a situation to find out the truth about it or how it happened/to examine |enquêter
+To Enhance                |to increase or further improve the good quality, value or status of something/to improve |améliorer
 Bond                   |something that forms a connection between groups, such as a feeling of friendship or shared ideas and experiences/link |lien
 ability                |ability to do something the fact that somebody is able to do something/capacity |capacité
-To assess              |to make a judgement about the nature or quality of something/evaluate |évaluer
+To assess              |to make a judgement about the nature or quality of something/to evaluate |évaluer
 Including              |having something as part of a group or set/as well as |y compris
 Shelter                |the fact of having a place to live or stay, considered as a basic human need/refuge |abri
-To Argue that             |with clause: assert,maintain |soutenir que
+To Argue that             |with clause: to assert,to maintain |soutenir que
 Reward                 |Cats may have learned that humans reward them for responding to slow blinking/compensation |récompense
-To Stare               |to look at somebody for a long time/gape |fixer 
-Threatening            |expressing a threat of harm or violence/gesture |menaçant
+To Stare               |to look at somebody for a long time/to gape |fixer 
+Threatening            |expressing a threat of harm or violence/gesturing |menaçant
 Significance           |the importance of something, especially when this has an effect on what happens in the future/importance |importance
-To Include             |if one thing includes another, it has the second thing as one of its part/contain |comprendre
+To Include             |if one thing includes another, it has the second thing as one of its part/to contain |comprendre
 Household              |all the people living together in a house or flat/home |foyer
 Flat                   |the flat of something the flat level part of something/level |plat
 Palm                   |front of the hand/frond |paume
 Upward                 |pointing towards or facing a higher place/higher |vers le haut
 Whilst                 |during the time that something is happening; at the same time as something else is happening/when |bien que
-To Crouch             |to put your body close to the ground by bending your legs under you/squat |s'accroupir
+To Crouch             |to put your body close to the ground by bending your legs under you/to squat |s'accroupir
 Cue                    |an action or event that is a signal for somebody to do something/ signal |signal
-To Rub                 |to press two surfaces against each other and move them backwards and forwards; to be pressed together and move in this way/stroke |frotter
-To Butt                | if an animal butts somebody, it hits them or it hard with its head/hit |buter,cogner
+To Rub                 |to press two surfaces against each other and move them backwards and forwards; to be pressed together and move in this way/to stroke |frotter
+To Butt                | if an animal butts somebody, it hits them or it hard with its head/to hit |buter,cogner
 Sad                    |feeling sorrowful/unhappy |triste
 
 ## Analysis about study

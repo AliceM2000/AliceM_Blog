@@ -60,9 +60,9 @@ To Draw                |to make pictures/doodle            |dessiner
 Disturbance            |that disturbs something or somebody/commotion |dérangement
 Weak                   |unable to exert force/low          |faible
 Shock                  |a strong feeling of surprise as a result of something happening/impact |choc
-Collar                 |strap around neck of a animal/necklace  |collier
+Collar                 |strap around neck of an animal/a necklace  |collier
 Least                  |smallest possible quantity/littlest  |moins
-Shake                  |to move with short quick movements side to side/tremble |secouer
+To Shake                  |to move with short quick movements side to side/to tremble |secouer
 To Fund                |provide money for something/pay for |financer
 To Carry out           |to complete a task/perform  |effectuer
 accelerometer          |an instrument for measuring acceleration | accéléromètre

@@ -37,7 +37,7 @@ Likewise               | moreover/also | De même
 Wild                   | living in a natural and untamed environment/savage | Sauvage
 To Link                | To connect/to joint,to bond,... | Relier
 Field                  | a large area or expanse of anything/terrain | Terrain
-To Gather              | information : collate/collect | Recueillir
+To Gather              | information : to collate/to collect | Recueillir
 Breeding               | raising animal/species | élevage
 To Promote             | to help or encourage to flourish/to advertise | Promouvoir
 Commoner               | a person who does not come from a royal or noble family/ common man | roturier, roturière
@@ -52,7 +52,7 @@ Enclosure              | enclosed area for animals/pen | enclos
 Nesting                | bird: building a nest/den | Nidification
 To Hatch               | to break out of an egg/to incubate | éclore
 To Enable              | to make able/to facilitate | permettre
-Kingfishers            | a bird with a long beak that catches fish in rivers. The European kingfisher is small and brightly coloured and the American kingfisher is larger and blue-grey in colour. | Martin-pêcheur
+Kingfisher             | a bird with a long beak that catches fish in rivers. The European kingfisher is small and brightly coloured and the American kingfisher is larger and blue-grey in colour. | Martin-pêcheur
 Reliant                | having or showing dependence/dependent | Dépendant
 Neighbouring           | located or living near or next to a place or person/adjacent | Voisin
 Amongst                | in, into, or through the midst or middle of/among | au milieu de

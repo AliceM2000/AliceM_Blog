@@ -31,32 +31,32 @@ knitr::opts_chunk$set(echo = FALSE)
 **Word from the text** | **Synonym/definition in English** | **French translation**
 -----------------------|-----------------------------------|---------------------------------
 Lockdown               |mass quarantine to control disease/confinement |Confinement
-To reveal              |to make something known to somebody /show,disclose |Révéler
+To reveal              |to make something known to somebody /to show, to disclose |Révéler
 wildlife               |animals that are wild and live in a natural environment/animals |faune
 devastating            |causing a lot of damage and destroying things/catastrophic |dévastatrice
 crisis                 |a time of great danger, difficulty or doubt when problems must be solved or important decisions must be made/emergency |crise
 increasingly           |more and more/progressively |De plus en plus
-To crowd               |to form a group of people/group |peupler, s'attrouper
+To crowd               |to form a group of people/to group |peupler, s'attrouper
 both                   |the one as well as the other/the two |tous les deux 
 spread                 | the act of spreading ideas or information among many people/extention |Propagation
-To reduce              |to make something less to become less/decrease |réduire
+To reduce              |to make something less to become less/to decrease |réduire
 insight                |an understanding of what something is like/perception |perspicacité
 countless              |too many to be counted or mentioned/very many |d'innombrables
-To encounter           |experience a problem/run into |rencontrer
+To encounter           |experience a problem/to run into |rencontrer
 spotted                |having a regular pattern of small dots on it/dotted |tacheté
-To prowl               |to move quietly and carefully around an area, especially when hunting/slink |rôder
-To show up             |to arrive where you have arranged to meet somebody or do something/appear |faire apparaître
+To prowl               |to move quietly and carefully around an area, especially when hunting/to slink |rôder
+To show up             |to arrive where you have arranged to meet somebody or do something/to appear |faire apparaître
 urban-dwelling         |group of dwellings such that none is separated from the nearest/city |habitation urbain
 struggle               |to try very hard to do something when it is difficult or when there are a lot of problems/strive |épreuve
 poaching               |the illegal practice of hunting or fishing/hunt illegally |braconnage
-To tackle              |to make a determined effort to deal with a difficult problem or situation/equipment |aborder
+To tackle              |to make a determined effort to deal with a difficult problem or situation/to equipment |aborder
 hardship               |situation that is difficult and unpleasant because you do not have enough money, food, clothes, etc./difficulty |épreuve
-To argue               |to speak angrily to somebody because you disagree with them/contend |se disputer
+To argue               |to speak angrily to somebody because you disagree with them/to contend |se disputer
 nifty                  |practical; working well/handy |astucieux
 device                 |an object or a piece of equipment that has been designed to do a particular job/instrument |appareil
 field                  |an area of land in the country used for growing crops or keeping animals in, usually surrounded by a fence, etc./land |champ
 tracking               | to find somebody/something by following the marks, signs, information, etc., that they have left behind them/following |pistage
-To attempt             |an act of trying to do something, especially something difficult, often with no success/try |tenter
+To attempt             |an act of trying to do something, especially something difficult, often with no success/to try |tenter
 landscape              |everything you can see when you look across a large area of land, especially in the country/country |paysage
 unforeseen             |that you did not expect to happen/unexpected |imprévu
 

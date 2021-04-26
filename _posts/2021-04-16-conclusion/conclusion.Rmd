@@ -14,13 +14,14 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-According to the different article we can observe that animal behaviours has a lot of impact on different factor. 
+According to the different article we can observe that animal behaviours have a lot of impact on different factors.
 
 
-Some animals can warn in advance to a earthquake. Chick can insure their welfare and also give alert of imminent danger thanks to their cry. Human impact on animal behaviours is big on the presence of human or their building. Cats have capacity to communicate by way of their eyes with their master or between them. Climate change has a lot of the impact on migration and birth from different species. Wild birds improve living environment for the well-being of animals in captivity. The choice of flowers for honey bees and bumblebees are different in comparison to their need. Ants ingest their own acid for their welfare. Pinkers flamingos are aggressive one towards the other if and only if  their food is too close.  Many factors influence to encourage a species or a group of species to fight.
+Some animals can predict earthquakes. Chicks can insure their welfare and also give alert in case of imminent danger thanks to their cry. The presence of humans and their buildings has a huge impact on animal behaviours. Cats have the capacity to communicate with their eyes when communicating with their masters or others of their own specie. Climate change also has a lot of  impact on migration and birth from different species. Wild birds help with the well-being of animals in captivity. The choice of flowers for honey bees and bumblebees are different in relation to their current needs. Ants ingest their own acid for their welfare. Pinker flamingos are aggressive towards their own kind when they aren’t looking for food elsewhere.  Many factors can encourage fights between individuals of the same specie or even between species.
 
 
-But a lot of question remain unresolved. Why animals have such behaviours? Can they have a big impact on our future? What other behaviour can other animals have even known or unknown?
+But a lot of questions remain unsolved. Why do animals have such behaviours? Can they have a big impact on our future? What other unknown behaviour could animals have?
+
 
 # Bibliography
 
